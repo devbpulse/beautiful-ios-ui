@@ -1,4 +1,4 @@
-Beautiful Android UI
+Beautiful iOS UI
 ==================
 
 A curated list of awesome iOS UI/UX libraries.
